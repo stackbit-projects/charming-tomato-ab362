@@ -7,7 +7,7 @@ collections:
 palette: yellow
 header:
   title: Dilip Rajeswari
-  tagline: Minimal and clean blog theme
+  tagline: ''
   logo_img: images/logo.svg
   logo_img_alt: Dilip Rajeswari
   background_img: images/header-bg.jpg
