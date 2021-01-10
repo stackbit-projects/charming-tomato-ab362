@@ -16,7 +16,7 @@ header:
     - label: About me
       url: /
       style: link
-    - label: About
+    - label: Research work
       url: /about
       style: link
     - label: Style Guide
