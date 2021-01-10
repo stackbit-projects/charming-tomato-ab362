@@ -2,7 +2,6 @@
 title: 'Hello there,'
 excerpt: ''
 date: ''
-thumb_img_path: images/1.jpg
 layout: post
 ---
 
