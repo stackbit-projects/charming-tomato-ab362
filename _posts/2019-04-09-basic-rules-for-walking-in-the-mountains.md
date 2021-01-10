@@ -18,7 +18,7 @@ layout: post
 
 
 
-**Passion and Interests:**
+## Passion and Interests:
 
 * Precision Psychiatry
 * Interpretable Machine Learning 
@@ -30,7 +30,7 @@ layout: post
 * Computational Neuroscience
 
 
-**Skill Set and tools:**
+## Skill Set and tools:
 * Python
 * Machine Learning
 * Deep Learning
